@@ -1,4 +1,4 @@
-# Hello, I'm Rthvik
+# Hello, I'm Rithvik
 <a href="https://linkedin.com/in/rithua"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a final year student studying for a Bachelor's in Information Technology @RMIT with a profound interest in technology and a dedication to solving complex problems.
